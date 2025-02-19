@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D22C00E2D65ABF700719C6F /* DownloadImageAsyncLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D22C00D2D65ABF700719C6F /* DownloadImageAsyncLern.swift */; };
 		8DAFEA4F2D4C96C80044D9A6 /* DependencyInjection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DAFEA4E2D4C96C70044D9A6 /* DependencyInjection.swift */; };
 		8DCD94412D49F34D005A0017 /* SwiftConcurrencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94402D49F34D005A0017 /* SwiftConcurrencyApp.swift */; };
 		8DCD94432D49F34D005A0017 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94422D49F34D005A0017 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D22C00D2D65ABF700719C6F /* DownloadImageAsyncLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadImageAsyncLern.swift; sourceTree = "<group>"; };
 		8DAFEA4E2D4C96C70044D9A6 /* DependencyInjection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjection.swift; sourceTree = "<group>"; };
 		8DCD943D2D49F34D005A0017 /* SwiftConcurrency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftConcurrency.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DCD94402D49F34D005A0017 /* SwiftConcurrencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftConcurrencyApp.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8DCD94422D49F34D005A0017 /* ContentView.swift */,
 				8DAFEA4E2D4C96C70044D9A6 /* DependencyInjection.swift */,
 				8DCD944E2D49F44B005A0017 /* DoCatchTryThrowsLern.swift */,
+				8D22C00D2D65ABF700719C6F /* DownloadImageAsyncLern.swift */,
 				8DCD94442D49F34F005A0017 /* Assets.xcassets */,
 				8DCD94462D49F34F005A0017 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D22C00E2D65ABF700719C6F /* DownloadImageAsyncLern.swift in Sources */,
 				8DCD94432D49F34D005A0017 /* ContentView.swift in Sources */,
 				8DCD94412D49F34D005A0017 /* SwiftConcurrencyApp.swift in Sources */,
 				8DAFEA4F2D4C96C80044D9A6 /* DependencyInjection.swift in Sources */,
